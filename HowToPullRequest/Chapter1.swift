@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+func chapter1() {
+    prints("this is the first chapter!!")
+}
