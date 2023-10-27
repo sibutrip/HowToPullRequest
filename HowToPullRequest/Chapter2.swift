@@ -6,7 +6,3 @@
 //
 
 import Foundation
-
-func chapter2() {
-    
-}
